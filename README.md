@@ -1,5 +1,5 @@
 # JS Unit Tests
-[9/11] [Fundamentos do Desenvolvimento Web](https://github.com/G-Alves1/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
+[9/11] [Fundamentos do Desenvolvimento Web](https://github.com/xitusz/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
 
 ---
 
@@ -40,7 +40,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/js-unit-tests.git
+    git clone git@github.com:xitusz/js-unit-tests.git
   ```
 
 ---
